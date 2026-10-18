@@ -113,7 +113,7 @@ Das sind alles **Zusammenhänge, keine Ursachen**. Zum Beispiel hängen Alter, E
 - Die Formeln wurden in LibreOffice berechnet, für alle 16 Kombinationen der beiden Filter (4 Regionen × 4 Altersgruppen inkl. „Alle“).
 - Jeder Wert (Kennzahlen, alle Tabellenzeilen, Einkommensklassen, Diagrammbeschriftungen, zusammen 912 Werte) wurde mit einer unabhängigen Python-Rechnung (pandas) direkt aus den Rohdaten verglichen: keine Abweichung.
 - Keine Formelfehler in der Datei.
-- In Excel Online selbst ist die Datei noch nicht getestet.
+- In Excel Online geprüft: Die Datei öffnet ohne Fehlermeldung, die Kennzahlen werden berechnet und die Dropdown-Filter verändern Kennzahlen und Diagramme wie erwartet.
 
 ## Grenzen
 
